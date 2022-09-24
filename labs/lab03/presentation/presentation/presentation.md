@@ -56,7 +56,7 @@ section-titles: true
 
 # Команды id -Gn и id -G
 
-![Команда id -Gn и id -G](../../image/5.png){ #fig:005 width=80% height=80% }
+![Команда id -Gn и id -G](../../image/7.png){ #fig:007 width=80% height=80% }
 
 # Содержимое файла /etc/group
 

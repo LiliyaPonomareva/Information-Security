@@ -130,7 +130,7 @@ gpasswd -a guest2 guest
  
 Сравнила вывод команды groups с выводом команд id -Gn и id -G([рис. 7](../../image/7.png))
 
-![Команда id -Gn и id -G](../../image/5.png){ #fig:005 width=80% height=80% }
+![Команда id -Gn и id -G](../../image/7.png){ #fig:007 width=80% height=80% }
 
 6. Сравнила полученную информацию с содержимым файла /etc/group([рис. 8](../../image/8.png)) 
 
