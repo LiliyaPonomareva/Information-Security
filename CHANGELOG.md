@@ -1,3 +1,7 @@
+- added lab8 code
+- added lab8
+- added programe for lab7
+- added lab7
 - added lab6
 - added lab6
 - added lab6
